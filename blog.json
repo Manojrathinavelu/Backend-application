@@ -1,0 +1,12 @@
+[
+  {
+    "title": "BlogPost2",
+    "active": true,
+    "location": "chennai"
+  },
+  {
+    "title": "BlogPost1",
+    "active": false,
+    "location": "chennai"
+  }
+]
